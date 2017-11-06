@@ -7,7 +7,7 @@ Kaikki kurssidokumentaatio löytyy [wikistä](https://github.com/TiraLabra/2017-
 # Aikataulu
 
 Demotilaisuuden aikataulu ilmoitetaan myöhemmin kurssilla
-Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) alapajassa **BK107**
+Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) alapajassa **B221**
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
